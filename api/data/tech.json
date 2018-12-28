@@ -1,0 +1,22 @@
+[{
+	"_id": {
+		"$oid": "5c25e169dc563228c6c93b53"
+	},
+	"name": "Express",
+	"role": "Web Application server"
+},
+{
+	"_id": {
+		"$oid": "5c25e169dc563228c6c93b54"
+	},
+	"name": "Angular",
+	"role": "Front End Framework"
+},
+{
+	"_id": {
+		"$oid": "5c25e169dc563228c6c93b55"
+	},
+	"name": "Node js",
+	"role": "Platform"
+}]
+
